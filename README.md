@@ -7,7 +7,6 @@ Zatacka game clone, with multiplayer mode.
 Not final version, updates are ongoing.
 
 To be done:
-  - Minor changes on gameplay and display items.
   - UDP hole punching, multiplayer only works on local networks yet.
   - online user database and score table.
   
